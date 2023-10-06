@@ -3,7 +3,7 @@ Combine the frameworks of Artificial Intelligence (AI) and Speech Recognition ca
 # Steps for Development
 Step 1: Sample sound data
 
-Step 2: Upload to Google Cloud Speech-to-Text
+Step 2: Upload to Google Cloud Speech-to-Text\n
 
 Step 3: Convert string back to program
 
